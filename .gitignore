@@ -1,0 +1,10 @@
+datasets/
+outputs/
+**__pycache__**
+*npz
+*png
+*mp4
+*npy
+*txt
+*pkl
+EMAGE/
